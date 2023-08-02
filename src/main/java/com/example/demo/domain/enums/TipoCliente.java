@@ -2,7 +2,7 @@ package com.example.demo.domain.enums;
 
 public enum TipoCliente {
 
-	PESSOAFIDICA(1, "Pessoa Física"),
+	PESSOAFISICA(1, "Pessoa Física"),
 	PESSOAJURIDICA(2, "Pessoa Jurídica");
 	
 	private int cod;
